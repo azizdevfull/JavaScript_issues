@@ -3,8 +3,4 @@ function tesnum(x, y) {
 }
 console.log(tesnum(15, 9));
 console.log(tesnum(25, 15));
-console.log(tesnum(7, 8));
-console.log(tesnum(25, 10));
-console.log(tesnum(5, 9));
 console.log(tesnum(7, 9));
-console.log(tesnum(9, 25));
